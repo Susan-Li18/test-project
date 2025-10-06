@@ -1,6 +1,6 @@
 # Git demo project
 
-Demo project for the Git course. This will be great!
+Demo project for the Git course. This will be great! This will be great,too!
 
 ## Reminder of Git basic commands
 
